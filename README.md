@@ -33,9 +33,7 @@ One day I went to the store, and I saw a guy named Geore. I said where was the G
         "grump": "arin",
         "nsfw": false,
         "swears": false
-    }
-    ...
-    .....
+    },
     {
         "quote": "You can't open up the story of my life and just go to page 738 and think you know me.",
         "grump": "arin",
@@ -54,9 +52,7 @@ One day I went to the store, and I saw a guy named Geore. I said where was the G
         "grump": "dan",
         "nsfw": false,
         "swears": false
-    }
-    ...
-    .....
+    },
     {
         "quote": "No matter how hard you work and how big a celebrity you become, you'll never be as famous as cheese.",
         "grump": "dan",
@@ -75,9 +71,7 @@ One day I went to the store, and I saw a guy named Geore. I said where was the G
         "grump": "dan",
         "nsfw": false,
         "swears": false
-    }
-    ...
-    .....
+    },
     {
         "quote": "His head is weird.",
         "grump": "dan",
@@ -96,9 +90,7 @@ One day I went to the store, and I saw a guy named Geore. I said where was the G
         "grump": "arin",
         "nsfw": false,
         "swears": false
-    }
-    ...
-    .....
+    },
     {
         "quote": "Don't make fame your goal. Make your goal doing what you do to the best of your ability, and that's something no one can take away from you.",
         "grump": "dan",
