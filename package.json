@@ -1,6 +1,6 @@
 {
   "name": "game-grumps-quotes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Randomly generates quotes from Arin, Dan, and other guest grumps.",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,9 @@
     "game",
     "grumps",
     "youtube"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaiimusician/game-grumps-quotes"
+  }
 }
